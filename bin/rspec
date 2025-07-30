@@ -1,6 +1,11 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
+## Discourse plugin bin/rspec
+## Copyright (c) 2025 Michiel Hendriks
+## SPDX-License-Identifier: MIT
+## https://github.com/magicball-network/discourse-plugin-bin-rspec
+
 ## This rspec script is meant to be executed from a Discourse plugin directory.
 ## Effectively it will execute Discourse's bin/rspec script with some adjusted
 ## parameters. Besides being able to use it directly from the command line this
